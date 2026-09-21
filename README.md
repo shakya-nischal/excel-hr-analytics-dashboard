@@ -31,7 +31,7 @@ The objective was to clean and standardise the data, enrich it using reference t
 
 ## Dashboard
 
-![HR Analytics Dashboard](screenshots/hr-analytics-dashboard.png)
+![HR Analytics Dashboard](screenshots/HR_Analytics_dashboard.png)
 
 The dashboard provides a high-level view of workforce performance and allows HR information to be explored across different organisational dimensions.
 
