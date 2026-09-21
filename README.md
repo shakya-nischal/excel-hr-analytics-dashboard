@@ -31,11 +31,7 @@ The objective was to clean and standardise the data, enrich it using reference t
 
 ## Dashboard
 
-> Add your dashboard screenshot here after placing it inside the `screenshots/` directory.
-
-```markdown
 ![HR Analytics Dashboard](screenshots/hr-analytics-dashboard.png)
-```
 
 The dashboard provides a high-level view of workforce performance and allows HR information to be explored across different organisational dimensions.
 
